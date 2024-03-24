@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Silamir Group
-- 🌱 I’m currently learning NextJs & NestJs
+- 🌱 I’m currently learning NestJs
 - 📫 How to reach me: mahmoudayed@hotmail.fr and this is my linkedin profile : [Mahmoud Ayed](https://tn.linkedin.com/in/mahmoud-ayed-111329207)
 - 😄 I'm open to: all opportunities whatever the complexity of the mission :muscle:
 - ⚡ always learning new things.
