@@ -5,7 +5,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 60px/>
 
 
-- 🔭 I’m currently working on Silamir Group
+- 🔭 I’m currently working on Naxicap Partners
 - 🌱 I’m currently learning NestJs
 - 📫 How to reach me: mahmoudayed@hotmail.fr and this is my linkedin profile : [Mahmoud Ayed](https://tn.linkedin.com/in/mahmoud-ayed-111329207)
 - 😄 I'm open to: all opportunities whatever the complexity of the mission :muscle:
