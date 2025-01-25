@@ -1,5 +1,5 @@
 <p align="center">
- <a href="[https://git.io/typing-svg](https://mahmoudayed.netlify.app/)"><img src="https://readme-typing-svg.demolab.com?font=caveat&pause=1000&color=F79800&width=635&lines=%E2%AD%90Difficult+Roads+Lead+To+Beautiful+Destinations+%F0%9F%98%89%F0%9F%9A%80%E2%9C%A8;%F0%9F%A4%A0Software+Engineer+In+Love+With+Craftmanship+%E2%9D%A4%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D" alt="Typing SVG" /></a>
+ <a href="[https://git.io/typing-svg](https://mahmoudayed.netlify.app/)"><img src="https://readme-typing-svg.demolab.com?font=caveat&pause=1000&color=FAD500&width=635&lines=%E2%AD%90Difficult+Roads+Lead+To+Beautiful+Destinations+%F0%9F%98%89%F0%9F%9A%80%E2%9C%A8;%F0%9F%A4%A0Software+Engineer+In+Love+With+Craftmanship+%E2%9D%A4%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D" alt="Typing SVG" /></a>
 </p>
  
  <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50px" height="50px" alt="hi">, I'm Mahmoud Ayed </h1>
